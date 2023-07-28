@@ -12,7 +12,7 @@ const ContactForm = () => {
             Contact
           </p>
           <p className="text-[#a1aac5] py-4">
-            Submit the form or send me an Email
+            Submit the form or send me an Email ramkissoon.vijay@gmail.com
           </p>
         </div>
         <input
