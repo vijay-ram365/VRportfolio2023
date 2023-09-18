@@ -1,8 +1,8 @@
 Project portfolio to learn React and the useState hook, TailWind CSS, and GitHub.
 
-This project is portfolio template ideas and includes the following:
+This project contains portfolio template ideas and includes the following:
 
-- Mobile and responsive design with tailwind css
+- Mobile and responsive design with tailwind CSS
 - State to manage the nav bar and mobile nav
 - Hero/Main section with animated links to social media
 - Cards to preview projects with links to repos
